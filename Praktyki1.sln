@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktyki1", "Praktyki1\Praktyki1.csproj", "{48863D69-8539-46BD-9C4D-1FC6DA27911E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraktykiTest", "PraktykiTest\PraktykiTest.csproj", "{E2A806F8-1EB6-487A-8169-61E05DBF7CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48863D69-8539-46BD-9C4D-1FC6DA27911E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48863D69-8539-46BD-9C4D-1FC6DA27911E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48863D69-8539-46BD-9C4D-1FC6DA27911E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48863D69-8539-46BD-9C4D-1FC6DA27911E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A806F8-1EB6-487A-8169-61E05DBF7CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A806F8-1EB6-487A-8169-61E05DBF7CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A806F8-1EB6-487A-8169-61E05DBF7CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A806F8-1EB6-487A-8169-61E05DBF7CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801A8811-74BA-42A1-9DFB-822D8304997C}
+	EndGlobalSection
+EndGlobal

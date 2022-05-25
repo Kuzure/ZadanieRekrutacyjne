@@ -1,0 +1,8 @@
+C:\Praktyki\Praktyki1\Praktyki1\bin\Debug\Praktyki1.exe.config
+C:\Praktyki\Praktyki1\Praktyki1\bin\Debug\Praktyki1.exe
+C:\Praktyki\Praktyki1\Praktyki1\bin\Debug\Praktyki1.pdb
+C:\Praktyki\Praktyki1\Praktyki1\obj\Debug\Praktyki1.csproj.AssemblyReference.cache
+C:\Praktyki\Praktyki1\Praktyki1\obj\Debug\Praktyki1.csproj.SuggestedBindingRedirects.cache
+C:\Praktyki\Praktyki1\Praktyki1\obj\Debug\Praktyki1.csproj.CoreCompileInputs.cache
+C:\Praktyki\Praktyki1\Praktyki1\obj\Debug\Praktyki1.exe
+C:\Praktyki\Praktyki1\Praktyki1\obj\Debug\Praktyki1.pdb
